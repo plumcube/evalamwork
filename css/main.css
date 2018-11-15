@@ -1,0 +1,69 @@
+@media (min-width: 767px) {
+  .content-section {
+    padding-top: 50px;
+  }
+  .download-section {
+    padding: 0px 0px 100px;
+
+  }
+  #map {
+    height: 400px;
+    margin-top: 250px;
+  }
+}
+
+#about, #contact {
+	padding: 300px 0px;
+}
+
+#portfolio {
+	text-align: left;
+}
+
+.intro {
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 100px 0;
+  text-align: center;
+  color: white;
+  /*background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;*/
+  /*background: url(http://www.planwallpaper.com/static/images/Abstract-Cool-Background.jpg) no-repeat bottom center scroll;*/
+  background: url(http://www.planwallpaper.com/static/images/Cool-Background-Wallpaper-Dekstop.jpg) no-repeat bottom center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.download-section {
+  width: 100%;
+  padding: 50px 0;
+  color: white;
+  /*background: url(../img/downloads-bg.jpg) no-repeat center center scroll;*/
+  /*background: url(http://www.planwallpaper.com/static/images/Abstract-Cool-Background.jpg) no-repeat center center scroll;*/
+  /*background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Stary-night-sky_-_West_Virginia_-_ForestWander.jpg/1280px-Stary-night-sky_-_West_Virginia_-_ForestWander.jpg) no-repeat center center scroll;*/
+  background: url(http://www.freelargeimages.com/wp-content/uploads/2014/12/Black_background-2.jpg) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+
+.about-section {
+  width: 100%;
+  padding: 50px 0;
+  color: white;
+  /*background: url(../img/downloads-bg.jpg) no-repeat center center scroll;*/
+  /*background: url(http://www.planwallpaper.com/static/images/Abstract-Cool-Background.jpg) no-repeat center center scroll;*/
+  background: url(http://24.media.tumblr.com/tumblr_letvovnXKd1qzku3oo1_1280.png) no-repeat center center scroll;
+  background-color: black;
+  background-position: center 20px;
+  background-size: 600px;
+  /*-webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;*/
+}
